@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: Sortowanie
+Version: 1.0.0
+Summary: Implementacje algorytmow sortowania
+Home-page: UNKNOWN
+Author: Lukasz Smoluch, Jacek Wierucki
+Author-email: smoluchlukasz@gmail.com
+License: open-source
+Description: UNKNOWN
+Keywords: sorting bubble sort quicksort insert
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.5

@@ -1,0 +1,8 @@
+my_sort.py
+setup.py
+Sortowanie.egg-info/PKG-INFO
+Sortowanie.egg-info/SOURCES.txt
+Sortowanie.egg-info/dependency_links.txt
+Sortowanie.egg-info/entry_points.txt
+Sortowanie.egg-info/requires.txt
+Sortowanie.egg-info/top_level.txt
